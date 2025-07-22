@@ -81,7 +81,8 @@ Used Power BI to build a professional dashboard that visualizes investment trend
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Mutual Fund Dashboard .png.jpg)
+![Dashboard Preview](mutual_fund_dashboard.png)
+
 
 ---
 
